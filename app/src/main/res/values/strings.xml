@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListView_RecyclerView</string>
+    <string-array name="names">
+        <item>abdallah</item>
+        <item>Murad</item>
+        <item>Iyad</item>
+        <item>Ali</item>
+        <item>Amjed</item>
+    </string-array>
+</resources>
